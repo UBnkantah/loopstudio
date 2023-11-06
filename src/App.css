@@ -1,0 +1,12 @@
+.herosection-container{
+  background-image: url("./images/desktop/image-hero.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.footer-container{
+  background-color: hsl(0, 0%, 0%);
+  color: #fff;
+  padding: 30px 10px;
+}
